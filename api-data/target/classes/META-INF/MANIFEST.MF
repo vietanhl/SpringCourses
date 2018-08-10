@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-data
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vietle
+Implementation-Vendor-Id: io.viet
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-data
+Created-By: Maven Integration for Eclipse
+
